@@ -6,11 +6,12 @@
   box-sizing: border-box;
   padding: 0;
   margin: 0;
-  /* font-family: 'Dancing Script', cursive; */
+  font-family: 'Dancing Script', cursive;
 }
 .wholeCal{
   width: 600px;
   /* border: 2px solid rgb(0, 98, 255); */
+  
   height: 85dvh;
   margin: 0 auto;
   /* border-radius: 12px; */
@@ -32,6 +33,7 @@
 button{
   padding: 10px;
   font-size: 60px;
+  /* border: none;  */
 }
 .linemid{
   display: grid;
